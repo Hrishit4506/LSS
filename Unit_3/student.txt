@@ -1,0 +1,7 @@
+rno|name|city|marks
+201|John|New York|85
+202|Emma|Los Angeles|92
+203|Liam|Chicago|78
+204|Olivia|Houston|88
+205|Noah|Phoenix|80
+206|Ava|Denver|90

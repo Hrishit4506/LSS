@@ -1,0 +1,7 @@
+eno|ename|city|salary
+101|Alice|New York|50000
+102|Bob|Los Angeles|55000
+103|Charlie|Chicago|48000
+104|David|Houston|60000
+105|Eve|Phoenix|52000
+106|Frank|Denver|51000

@@ -1,0 +1,7 @@
+206|Ava|Denver|90
+202|Emma|Los Angeles|92
+201|John|New York|85
+203|Liam|Chicago|78
+rno|name|city|marks
+205|Noah|Phoenix|80
+204|Olivia|Houston|88
